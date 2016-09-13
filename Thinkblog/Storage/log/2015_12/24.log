@@ -1,0 +1,15 @@
+[ 2015-12-24T00:50:13+08:00 ]EXCEPTION: 模板不存在:App/Admin/View/Index/changePwd.php
+[ 2015-12-24T00:57:25+08:00 ]EXCEPTION: 模板不存在:App/Admin/View/Index/changePwd.php
+[ 2015-12-24T01:19:27+08:00 ]EXCEPTION: UPDATE user SET `password`=?  WHERE uid1 ;BindParams:array (
+  'password' => '0192023a7bbd73250516f069df18b500',
+)42S22;1054;Unknown column 'uid1' in 'where clause'
+[ 2015-12-24T01:22:16+08:00 ]NOTICE: A session had already been started - ignoring session_start()/Applications/MAMP/htdocs/houdun/Hdphp/class-12-23/1.blog/App/Admin/Controller/IndexController.php (46).
+[ 2015-12-24T01:27:50+08:00 ]NOTICE: Undefined variable: str/Applications/MAMP/htdocs/houdun/Hdphp/class-12-23/1.blog/App/Admin/Controller/IndexController.php (54).
+[ 2015-12-24T01:29:33+08:00 ]NOTICE: Undefined variable: str/Applications/MAMP/htdocs/houdun/Hdphp/class-12-23/1.blog/App/Admin/Controller/IndexController.php (54).
+[ 2015-12-24T21:55:05+08:00 ]EXCEPTION: Method Admin\Controller\CateController::index() does not exist
+[ 2015-12-24T21:57:50+08:00 ]NOTICE: Undefined variable: v/Applications/MAMP/htdocs/houdun/Hdphp/class-12-24/1.blog/Storage/view/compile/d2321ff4dbba56fbf66d46561f7ef14d.php (30).
+[ 2015-12-24T21:57:50+08:00 ]NOTICE: Undefined variable: v/Applications/MAMP/htdocs/houdun/Hdphp/class-12-24/1.blog/Storage/view/compile/d2321ff4dbba56fbf66d46561f7ef14d.php (32).
+[ 2015-12-24T22:05:33+08:00 ]NOTICE: Undefined index: _cname/Applications/MAMP/htdocs/houdun/Hdphp/class-12-24/1.blog/Storage/view/compile/d2321ff4dbba56fbf66d46561f7ef14d.php (29).
+[ 2015-12-24T22:05:33+08:00 ]NOTICE: Undefined index: _cname/Applications/MAMP/htdocs/houdun/Hdphp/class-12-24/1.blog/Storage/view/compile/d2321ff4dbba56fbf66d46561f7ef14d.php (29).
+[ 2015-12-24T22:57:10+08:00 ]EXCEPTION: SELECT  cid,cname  FROM category WHERE cid={$cid} LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '} LIMIT 1' at line 1

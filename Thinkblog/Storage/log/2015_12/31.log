@@ -1,0 +1,46 @@
+[ 2015-12-31T00:01:32+08:00 ]NOTICE: Undefined variable: arcData/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/App/Home/Controller/ListController.php (39).
+[ 2015-12-31T00:01:32+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (79).
+[ 2015-12-31T00:06:29+08:00 ]NOTICE: Undefined index: cid/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (92).
+[ 2015-12-31T00:06:29+08:00 ]NOTICE: Undefined index: cname/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (92).
+[ 2015-12-31T00:06:29+08:00 ]NOTICE: Undefined index: tag/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T00:06:29+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T00:06:29+08:00 ]NOTICE: Undefined index: cid/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (92).
+[ 2015-12-31T00:06:29+08:00 ]NOTICE: Undefined index: cname/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (92).
+[ 2015-12-31T00:06:29+08:00 ]NOTICE: Undefined index: tag/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T00:06:29+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T00:07:20+08:00 ]NOTICE: Undefined index: cid/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (92).
+[ 2015-12-31T00:07:20+08:00 ]NOTICE: Undefined index: cname/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (92).
+[ 2015-12-31T00:07:20+08:00 ]NOTICE: Undefined index: tag/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T00:07:20+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T00:07:20+08:00 ]NOTICE: Undefined index: cid/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (92).
+[ 2015-12-31T00:07:20+08:00 ]NOTICE: Undefined index: cname/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (92).
+[ 2015-12-31T00:07:20+08:00 ]NOTICE: Undefined index: tag/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T00:07:20+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T00:07:31+08:00 ]NOTICE: Undefined index: tag/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T00:07:31+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T00:39:48+08:00 ]NOTICE: Use of undefined constant tag - assumed 'tag'/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T00:39:48+08:00 ]NOTICE: Use of undefined constant tag - assumed 'tag'/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T00:45:42+08:00 ]NOTICE: Undefined index: tag/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T00:45:42+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T00:45:42+08:00 ]NOTICE: Undefined index: tag/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T00:45:42+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T00:45:42+08:00 ]NOTICE: Undefined index: tag/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T00:45:42+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T01:12:25+08:00 ]EXCEPTION: SELECT  tid,tname  FROM article INNER JOIN category ON category_cid = cid  INNER JOIN article_tag ON article_aid = aid  INNER JOIN category ON category_cid = cid WHERE category_cid=10 ORDER BY  sendtime DESC  ;BindParams:array (
+)42000;1066;Not unique table/alias: 'category'
+[ 2015-12-31T01:13:52+08:00 ]EXCEPTION: SELECT  *  FROM article INNER JOIN category ON category_cid = cid  INNER JOIN article_tag ON article_aid = aid  INNER JOIN category ON category_cid = cid WHERE category_cid=10 ORDER BY  sendtime DESC  ;BindParams:array (
+)42000;1066;Not unique table/alias: 'category'
+[ 2015-12-31T01:19:21+08:00 ]NOTICE: Undefined variable: data/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/App/Home/Controller/ListController.php (44).
+[ 2015-12-31T01:19:21+08:00 ]NOTICE: Undefined variable: data/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/App/Home/Controller/ListController.php (44).
+[ 2015-12-31T01:19:21+08:00 ]NOTICE: Undefined variable: data/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/App/Home/Controller/ListController.php (44).
+[ 2015-12-31T01:19:21+08:00 ]NOTICE: Undefined index: tag/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T01:19:21+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T01:19:21+08:00 ]NOTICE: Undefined index: tag/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T01:19:21+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T01:19:21+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T01:19:21+08:00 ]NOTICE: Undefined index: tag/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T01:19:21+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T01:19:21+08:00 ]NOTICE: Undefined index: tag/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T01:19:21+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T01:19:21+08:00 ]NOTICE: Undefined index: tag/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
+[ 2015-12-31T01:19:21+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/Hdphp/class-12-30/1.blog/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (109).
