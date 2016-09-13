@@ -1,6 +1,0 @@
-[ 2015-12-23T21:06:00+08:00 ]EXCEPTION: 模板不存在:App/Admin/View/Index/index.php
-[ 2015-12-23T21:43:20+08:00 ]EXCEPTION: show columns from `user` ;BindParams:array (
-)3D000;1046;No database selected
-[ 2015-12-23T21:47:09+08:00 ]NOTICE: Use of undefined constant data - assumed 'data'/Applications/MAMP/htdocs/houdun/Hdphp/class-12-23/1.blog/App/Admin/Controller/LoginController.php (20).
-[ 2015-12-23T21:59:12+08:00 ]EXCEPTION: Admin\Controller\U('IndexController 不存在
-[ 2015-12-23T21:59:50+08:00 ]EXCEPTION: Admin\Controller\U('IndexController 不存在
